@@ -1,4 +1,4 @@
 name = "grok" # 或您的 Worker 名称
-main = "src/index.js" # 或您的主文件路径
+main = "src/worker.js" # 或您的主文件路径
 compatibility_date = "2023-01-01" # 使用一个较新的日期
 type = "module" # 👈 确保有这一行
